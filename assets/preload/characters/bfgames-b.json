@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-13
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfgames-b",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bfgames",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		20,
+		135
+	],
+	"camera_position": [
+		290,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
