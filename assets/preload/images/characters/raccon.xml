@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="raccon.png" width="2471" height="2268">
+  <SubTexture name="r0020.png" x="0" y="0"  width="600" height="455" frameX="-0" frameY="-145" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="r0021.png" x="0" y="455"  width="600" height="430" frameX="-0" frameY="-169" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="r0022.png" x="600" y="0" width="461" height="600" rotated="true"  frameX="-0" frameY="-139" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="r0023.png" x="0" y="885"  width="600" height="484" frameX="-0" frameY="-116" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="u0027.png" x="1061" y="0"  width="494" height="600" frameX="-54" frameY="-0" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="u0026.png" x="600" y="600"  width="494" height="598" frameX="-54" frameY="-2" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="r0019.png" x="0" y="1369"  width="597" height="468" frameX="-3" frameY="-131" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0004.png" x="600" y="1198"  width="278" height="584" frameX="-161" frameY="-16" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0000.png" x="878" y="1198"  width="278" height="576" frameX="-161" frameY="-23" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0002.png" x="1094" y="600"  width="278" height="576" frameX="-161" frameY="-23" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="u0025.png" x="1555" y="0"  width="494" height="575" frameX="-54" frameY="-25" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="u0024.png" x="1555" y="575"  width="494" height="545" frameX="-54" frameY="-54" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="d0018.png" x="1156" y="1176"  width="431" height="510" frameX="-84" frameY="-90" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="d0017.png" x="1587" y="1120"  width="431" height="478" frameX="-84" frameY="-120" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="d0016.png" x="0" y="1837" width="463" height="431" rotated="true"  frameX="-85" frameY="-136" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="d0015.png" x="463" y="1837" width="441" height="431" rotated="true"  frameX="-85" frameY="-158" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="l0013.png" x="1587" y="1598" width="440" height="392" rotated="true"  frameX="-83" frameY="-160" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="l0009.png" x="904" y="1774"  width="358" height="434" frameX="-105" frameY="-165" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="d0014.png" x="2049" y="0" width="422" height="427" rotated="true"  frameX="-87" frameY="-176" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="l0010.png" x="2049" y="427" width="415" height="376" rotated="true"  frameX="-95" frameY="-185" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="l0012.png" x="2049" y="803" width="411" height="392" rotated="true"  frameX="-83" frameY="-189" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="l0011.png" x="2018" y="1195" width="385" height="392" rotated="true"  frameX="-83" frameY="-215" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0001.png" x="878" y="1198"  width="278" height="576" frameX="-161" frameY="-23" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0003.png" x="1094" y="600"  width="278" height="576" frameX="-161" frameY="-23" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0005.png" x="600" y="1198"  width="278" height="584" frameX="-161" frameY="-16" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0006.png" x="600" y="1198"  width="278" height="584" frameX="-161" frameY="-16" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0007.png" x="600" y="1198"  width="278" height="584" frameX="-161" frameY="-16" frameWidth="600" frameHeight="600"/>
+  <SubTexture name="i0008.png" x="600" y="1198"  width="278" height="584" frameX="-161" frameY="-16" frameWidth="600" frameHeight="600"/>
+</TextureAtlas>

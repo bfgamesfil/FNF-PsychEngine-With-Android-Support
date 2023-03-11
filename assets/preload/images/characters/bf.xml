@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfWuz.png">
+<SubTexture name="BF NOTE RIGHT0000" x="684" y="0" width="374" height="479" frameX="0" frameY="0" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0001" x="684" y="0" width="374" height="479" frameX="0" frameY="0" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0002" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0003" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0004" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0005" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0006" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0007" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0008" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0009" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0010" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0011" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0012" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE RIGHT0013" x="0" y="524" width="373" height="478" frameX="0" frameY="-1" frameWidth="374" frameHeight="479" />
+<SubTexture name="BF NOTE UP0000" x="0" y="0" width="339" height="524" frameX="-11" frameY="0" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0001" x="0" y="0" width="339" height="524" frameX="-11" frameY="0" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0002" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0003" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0004" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0005" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0006" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0007" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0008" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0009" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0010" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0011" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0012" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="BF NOTE UP0013" x="339" y="0" width="345" height="508" frameX="0" frameY="-11" frameWidth="350" frameHeight="524" />
+<SubTexture name="Boyfrend down0000" x="1760" y="0" width="369" height="431" frameX="0" frameY="-14" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0001" x="1760" y="0" width="369" height="431" frameX="0" frameY="-14" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0002" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0003" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0004" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0005" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0006" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0007" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0008" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0009" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0010" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0011" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0012" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrend down0013" x="1080" y="1002" width="355" height="449" frameX="-3" frameY="0" frameWidth="369" frameHeight="449" />
+<SubTexture name="Boyfrendo0000" x="719" y="1002" width="361" height="464" frameX="-3" frameY="-10" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0001" x="719" y="1002" width="361" height="464" frameX="-3" frameY="-10" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0002" x="358" y="1002" width="361" height="468" frameX="0" frameY="-7" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0003" x="358" y="1002" width="361" height="468" frameX="0" frameY="-7" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0004" x="1407" y="478" width="353" height="474" frameX="-2" frameY="-3" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0005" x="1407" y="478" width="353" height="474" frameX="-2" frameY="-3" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0006" x="373" y="524" width="348" height="478" frameX="-8" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0007" x="373" y="524" width="348" height="478" frameX="-8" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0008" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0009" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0010" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0011" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0012" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfrendo0013" x="1058" y="0" width="349" height="478" frameX="-9" frameY="0" frameWidth="364" frameHeight="478" />
+<SubTexture name="Boyfriend left0000" x="1407" y="0" width="353" height="478" frameX="-10" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0001" x="1407" y="0" width="353" height="478" frameX="-10" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0002" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0003" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0004" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0005" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0006" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0007" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0008" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0009" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0010" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0011" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0012" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+<SubTexture name="Boyfriend left0013" x="0" y="1002" width="358" height="478" frameX="0" frameY="0" frameWidth="363" frameHeight="478" />
+</TextureAtlas>
