@@ -1,0 +1,11 @@
+{
+	"idle_anim": "i",
+	"image": "bfgames",
+	"position": [
+		137,
+		192
+	],
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "u"
+}

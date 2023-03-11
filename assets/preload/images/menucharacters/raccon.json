@@ -1,0 +1,11 @@
+{
+	"idle_anim": "i",
+	"image": "raccon",
+	"position": [
+		-39,
+		110
+	],
+	"flipX": true,
+	"scale": 0.65,
+	"confirm_anim": "d"
+}

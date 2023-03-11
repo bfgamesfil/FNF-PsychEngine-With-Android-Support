@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="bfgames.png" width="776" height="2856">
+  <SubTexture name="i0000.png" x="0" y="0"  width="385" height="485" frameX="-195" frameY="-173" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="i0002.png" x="0" y="485"  width="382" height="483" frameX="-198" frameY="-175" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="i0001.png" x="0" y="968"  width="385" height="480" frameX="-195" frameY="-178" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="l0006.png" x="382" y="485"  width="389" height="472" frameX="-190" frameY="-185" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="l0005.png" x="385" y="0"  width="391" height="470" frameX="-188" frameY="-187" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="u0009.png" x="0" y="1448"  width="382" height="470" frameX="-198" frameY="-188" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="u0010.png" x="0" y="1918"  width="382" height="470" frameX="-198" frameY="-188" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="i0003.png" x="0" y="2388"  width="391" height="468" frameX="-189" frameY="-190" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="i0004.png" x="382" y="1448"  width="390" height="466" frameX="-190" frameY="-192" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="d0007.png" x="382" y="1914"  width="389" height="466" frameX="-190" frameY="-191" frameWidth="800" frameHeight="800"/>
+  <SubTexture name="d0008.png" x="385" y="957"  width="389" height="466" frameX="-190" frameY="-191" frameWidth="800" frameHeight="800"/>
+</TextureAtlas>

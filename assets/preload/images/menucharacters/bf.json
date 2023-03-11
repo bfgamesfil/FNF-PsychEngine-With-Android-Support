@@ -1,11 +1,11 @@
 {
-	
-	"image": "Menu_BF",
+	"idle_anim": "Boyfrendo",
+	"image": "bf",
 	"position": [
-		15,
-		-40
+		106,
+		20
 	],
-	"scale": 1,
-	"idle_anim": "M BF Idle",
-	"confirm_anim": "M bf HEY"
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "Boyfrend down"
 }
