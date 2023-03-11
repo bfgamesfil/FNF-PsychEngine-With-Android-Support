@@ -1,0 +1,7 @@
+Team Vs bfgames v1.5
+bfgames::bg::Artist, creator from the mod , animation , chart::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
+swust::swust::composer music menu::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
+guixml::guixml::Artist bg menu::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
+kusanests::kusanests::cover really-happy::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
+bili::bili::Artist::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
+resso::resso::scripts::https://www.youtube.com/channel/UCFTVUqbbBtHqqWmJIE7Cu5Q::0xFF3D3E62
