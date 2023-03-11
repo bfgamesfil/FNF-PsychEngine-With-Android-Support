@@ -1,0 +1,661 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					],
+					[
+						"Camera Follow Pos",
+						"1300",
+						"500"
+					],
+					[
+						"Darken BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				710.059171597633,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				1420.11834319527,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					],
+					[
+						"Evil",
+						"1",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					],
+					[
+						"Camera Follow Pos",
+						"600",
+						"500"
+					]
+				]
+			],
+			[
+				1952.66272189349,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				2130.1775147929,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				2307.69230769231,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				2485.20710059172,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				2840.23668639053,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				2840.23668639053,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2840.23668639053,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Darken BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				8520.7100591716,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				11360.9467455621,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				14201.1834319527,
+				[
+					[
+						"They Appear",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				14911.2426035503,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				19171.5976331361,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				19526.6272189349,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				19881.6568047337,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				24852.0710059172,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				25207.100591716,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				25562.1301775148,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				48284.0236686391,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0.3"
+					],
+					[
+						"MEXE BG",
+						"0",
+						"1"
+					],
+					[
+						"Bad Apple",
+						"1",
+						"1"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.3"
+					]
+				]
+			],
+			[
+				50414.201183432,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				50680.4733727811,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				50946.7455621302,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				56094.674556213,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				56360.9467455621,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				56627.2189349113,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				59644.9704142012,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Bad Apple",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				61775.1479289941,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				62041.4201183432,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				62307.6923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				67455.6213017752,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				67721.8934911243,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				67988.1656804734,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0"
+					]
+				]
+			],
+			[
+				70650.8875739645,
+				[
+					[
+						"MEXE BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				71005.9171597633,
+				[
+					[
+						"Darken BG",
+						"1",
+						"1"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				82366.8639053255,
+				[
+					[
+						"Darken BG",
+						"0",
+						"1"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87337.2781065089,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.45"
+					]
+				]
+			],
+			[
+				87692.3076923077,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				88047.3372781065,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				93017.75147929,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.45"
+					]
+				]
+			],
+			[
+				93372.7810650888,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				93727.8106508876,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				105088.75739645,
+				[
+					[
+						"MEXE BG",
+						"red",
+						"32"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				116449.704142012,
+				[
+					[
+						"Bad Apple",
+						"Final",
+						"32"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				139171.597633136,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.3"
+					],
+					[
+						"Camera Follow Pos",
+						"500",
+						"500"
+					]
+				]
+			],
+			[
+				139881.656804734,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				140236.686390533,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				140414.201183432,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				140591.715976331,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				140769.230769231,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				140946.74556213,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				141124.26035503,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				141301.775147929,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad"
+					]
+				]
+			],
+			[
+				142011.834319527,
+				[
+					[
+						"FTB",
+						"8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1300",
+						"500"
+					]
+				]
+			]
+		]
+	}
+}	
