@@ -1,0 +1,9 @@
+{
+	"directory": "bazarbg",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [540, 1310],
+	"girlfriend": [-1110, 1330],
+	"opponent": [-410, 1400]
+}
