@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"funkin",
+			"bfgames",
+			[
+				0,
+				233,
+				253
+			]
+		],
+		[
+			"really-happy",
+			"bfgames",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"vibratsiya",
+			"bfgames",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"bfgames",
+		"",
+		"bf"
+	],
+	"storyName": "0w0",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

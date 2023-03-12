@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"just-bfgames",
+			"exe",
+			[
+				0,
+				133,
+				253
+			]
+		],
+		[
+			"raccoon",
+			"raccon",
+			[
+				226,
+				0,
+				235
+			]
+		],
+		[
+			"giggle",
+			"exe",
+			[
+				86,
+				0,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"exe",
+		"raccon",
+		""
+	],
+	"storyName": "exe week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
